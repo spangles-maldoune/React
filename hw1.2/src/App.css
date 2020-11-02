@@ -1,0 +1,52 @@
+.wrapper {
+  margin: 0 20px;
+}
+.buttons-area {
+  display: flex;
+  padding: 50px;
+}
+
+.button {
+  font-size: 12px;
+  padding: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button__default {
+  background: transparent;
+  border: 1px solid black;
+}
+.button__error {
+  background: transparent;
+  color: red;
+  border: 1px solid red;
+}
+.button__success {
+  background: transparent;
+  color: green;
+  border: 1px solid green;
+}
+.title__default {
+
+}
+.title__error {
+  color: red;
+}
+.title__success {
+  color: green;
+}
+.tooltip {
+
+}
+.tooltip-elem {
+  border: 1px solid black;
+  margin-right: 20px;
+}
+.tooltip-splash {
+  color: red;
+}
