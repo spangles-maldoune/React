@@ -1,0 +1,10 @@
+.users__user-card_info{
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 20px;
+}
+
+.users__user-card_info span span{
+	font-weight: bold;
+	line-height: 25px;
+}

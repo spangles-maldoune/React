@@ -1,0 +1,31 @@
+.users__user-card {
+	display: flex;
+	flex-direction: column;
+	margin: 30px;
+	border: 1px solid #000;
+	height: 400px;
+	width: 500px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.users__user-card span{
+	font-size: 18px;
+}
+
+.users__user-card_subinfo{
+	display: flex;
+	height: 160px;
+	margin-bottom: 15px;
+}
+
+.users__user-card_subinfo div:first-child{
+	margin-right: 10px;
+}
+
+/*.users__button{*/
+/*	display: block;*/
+/*	margin: 0 auto;*/
+/*	width: 150px;*/
+/*	height: 35px;*/
+/*}*/

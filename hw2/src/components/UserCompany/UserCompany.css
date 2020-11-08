@@ -1,0 +1,6 @@
+.users__user-card_company{
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #000;
+	width: 50%;
+}
